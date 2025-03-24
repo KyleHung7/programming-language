@@ -6,8 +6,8 @@ This project focuses on leveraging AI and data analysis techniques to process fi
 ---
 
 ## 📅 Weekly Tasks
-###🔹 Week 1: Gen Z Hip-Hop Chatbot
 
+### 🔹 Week 1: Gen Z Hip-Hop Chatbot
 -Develop a chatbot with a Gen Z hip-hop artist persona.
 
 -Respond to student inquiries in a chill and engaging manner.
