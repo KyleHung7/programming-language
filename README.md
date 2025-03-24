@@ -1,7 +1,7 @@
 # Programming Language Project
 
 ## 📌 Overview
-This project focuses on leveraging AI and data analysis techniques to process financial reports, personnel data, and creative storytelling using **Google Sheets** as the primary output format.
+This project focuses on leveraging AI and data analysis techniques, including **Gemini API**, to process financial reports, personnel data, and creative storytelling using **Google Sheets** as the primary output format.
 
 ---
 
