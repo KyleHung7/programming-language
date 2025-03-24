@@ -8,35 +8,32 @@ This project focuses on leveraging AI and data analysis techniques, including **
 ## 📅 Weekly Tasks
 
 ### 🔹 Week 1: Gen Z Hip-Hop Chatbot
-[Task Link Path](https://colab.research.google.com/drive/1rjWJUzQqoHA4XkPZsTtgjHVtVfD4KHcn?usp=sharing)
--Develop a chatbot with a Gen Z hip-hop artist persona.
-
--Respond to student inquiries in a chill and engaging manner.
-
--Provide professional knowledge about hip-hop culture.
-
+[Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_1_Gen_Z_Hip_Hop_Chatbot.ipynb)
+- Develop a chatbot with a Gen Z hip-hop artist persona.
+- Respond to student inquiries in a chill and engaging manner.
+- Provide professional knowledge about hip-hop culture.
 
 ### 🔹 Week 2: Personnel Data Analysis
-[Task Link Path](https://colab.research.google.com/drive/1gcowCZFZ4Ym8qkTvb7lJ7shxhHInePK8?usp=sharing)
+[Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_2_Personnel_Data_Analysis.ipynb)
 - Extract key observational metrics from personnel data.
 - Perform data analysis and highlight critical insights.
 - Output results to **Google Sheets**.
 
 ### 🔹 Week 3: 2024 Q3 Public Company Financial Report Analysis
-[Task Link Path](https://colab.research.google.com/drive/1fsTWvYUV22tagr2KfgU1sQSCbYDkSsr0?usp=sharing)
+[Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_3_2024_Q3_Public_Company_Financial_Report_Analysis.ipynb)
 - Analyze **Q3 2024 financial reports** of listed companies.
 - Utilize **Gemini API** for in-depth financial insights.
 - Output results to **Google Sheets**.
 
 ### 🔹 Week 4: AI Storytelling - "Witty Storyteller"
-[Task Link Path](https://colab.research.google.com/drive/1T_Wudr2fOiWvqheHvM1ZciUcMnpkGsDf?usp=sharing)
+[Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_4_AI_Storytelling_%22Witty_Storyteller%22.ipynb)
 - Develop an AI-driven storyteller.
 - Set character roles and initial story scenarios.
 - Generate creative narratives using **AI**.
 - Output stories to **Google Sheets**.
 
 ### 🔹 Week 5: Advanced 2024 Q3 Financial Report Analysis
-[Task Link Path](https://colab.research.google.com/drive/1eApJwGMYTsdIhKtTWRM3_Wl-x1_rhjDQ?usp=sharing)
+[Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_5_Advanced_2024_Q3_Financial_Report_Analysis.ipynb)
 - **Refine and clean** financial data.
 - Generate **bar charts & line graphs** for visualization.
 - Utilize **Gemini API** for enhanced financial analysis.
