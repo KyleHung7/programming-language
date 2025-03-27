@@ -3,6 +3,7 @@
 ## 📌 Course Information
 This project is part of the **Programming Language** course taught by **Professor Yun-Cheng Tsai**. The course addresses the urgent need for students to develop **resilience, innovation, and competitiveness** in the face of AI-driven technological changes. 
 
+### Course Objectives
 By analyzing legal documents as an example, students will learn to **collect and organize open data using Python**. The course aims to:
 - Foster interest in cross-disciplinary data analysis.
 - Enhance **lifelong learning** capabilities.
@@ -46,7 +47,10 @@ By analyzing legal documents as an example, students will learn to **collect and
 
 ### 🔹 Week 6: Advanced 2024 Q3 Financial Report Analysis with Machine Learning
 [Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_6_Advanced_2024_Q3_Financial_Report_Analysis_with_Machine_Learning.ipynb)
-
+- Apply **PCA and K-Means clustering** (using the **elbow method** to determine the optimal number of clusters).
+- Perform **one-hot encoding** for categorical data.
+- Use a **heatmap** to compare correlations between different fields.
+- Visualize clustering results with **box plots**.
 ---
 
 ## 🚀 Project Goals
