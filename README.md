@@ -1,7 +1,12 @@
 # Programming Language Project
 
-## 📌 Overview
-This project focuses on leveraging AI and data analysis techniques, including **Gemini API**, to process financial reports, personnel data, and creative storytelling using **Google Sheets** as the primary output format.
+## 📌 Course Information
+This project is part of the **Programming Language** course taught by **Professor Yun-Cheng Tsai**. The course addresses the urgent need for students to develop **resilience, innovation, and competitiveness** in the face of AI-driven technological changes. 
+
+By analyzing legal documents as an example, students will learn to **collect and organize open data using Python**. The course aims to:
+- Foster interest in cross-disciplinary data analysis.
+- Enhance **lifelong learning** capabilities.
+- Equip students with skills for **remote work and workplace adaptability**.
 
 ---
 
@@ -9,14 +14,14 @@ This project focuses on leveraging AI and data analysis techniques, including **
 
 ### 🔹 Week 1: Gen Z Hip-Hop Chatbot
 [Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_1_Gen_Z_Hip_Hop_Chatbot.ipynb)
-- Develop a chatbot with a Gen Z hip-hop artist persona.
-- Respond to student inquiries in a chill and engaging manner.
-- Provide professional knowledge about hip-hop culture.
+- Develop a chatbot with a **Gen Z hip-hop artist persona**.
+- Respond to student inquiries in a **chill and engaging manner**.
+- Provide **professional insights into hip-hop culture**.
 
 ### 🔹 Week 2: Personnel Data Analysis
 [Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_2_Personnel_Data_Analysis.ipynb)
-- Extract key observational metrics from personnel data.
-- Perform data analysis and highlight critical insights.
+- Extract **key observational metrics** from personnel data.
+- Perform **data analysis** and highlight critical insights.
 - Output results to **Google Sheets**.
 
 ### 🔹 Week 3: 2024 Q3 Public Company Financial Report Analysis
@@ -27,9 +32,9 @@ This project focuses on leveraging AI and data analysis techniques, including **
 
 ### 🔹 Week 4: AI Storytelling - "Witty Storyteller"
 [Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_4_AI_Storytelling_%22Witty_Storyteller%22.ipynb)
-- Develop an AI-driven storyteller.
-- Set character roles and initial story scenarios.
-- Generate creative narratives using **AI**.
+- Develop an **AI-driven storyteller**.
+- Set **character roles and initial story scenarios**.
+- Generate **creative narratives** using AI.
 - Output stories to **Google Sheets**.
 
 ### 🔹 Week 5: Advanced 2024 Q3 Financial Report Analysis
@@ -44,18 +49,17 @@ This project focuses on leveraging AI and data analysis techniques, including **
 
 ---
 
-## 🚀 Goals
-- Automate data analysis and visualization.
+## 🚀 Project Goals
+- **Automate data analysis** and visualization.
 - Integrate **Gemini API** for financial and text-based analysis.
-- Enhance AI-driven storytelling capabilities.
+- Enhance **AI-driven storytelling** capabilities.
 - Streamline report generation via **Google Sheets**.
 
 ---
 
 ## 📂 Output
-All analyses and generated content will be stored in **Google Sheets**, ensuring easy access and real-time updates.
+All analyses and generated content will be stored in **Google Sheets**, ensuring **easy access and real-time updates**.
 
 ---
 
 Stay tuned for updates and improvements! 🚀
-
