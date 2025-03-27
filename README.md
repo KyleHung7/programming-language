@@ -39,6 +39,9 @@ This project focuses on leveraging AI and data analysis techniques, including **
 - Utilize **Gemini API** for enhanced financial analysis.
 - Output results to **Google Sheets**.
 
+### 🔹 Week 6: Advanced 2024 Q3 Financial Report Analysis with Machine Learning
+[Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_6_Advanced_2024_Q3_Financial_Report_Analysis_with_Machine_Learning.ipynb)
+
 ---
 
 ## 🚀 Goals
