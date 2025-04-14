@@ -52,18 +52,19 @@ By analyzing legal documents as an example, students will learn to **collect and
 - Use a **heatmap** to compare correlations between different fields.
 - Visualize clustering results with **box plots**.
 ---
+## 📅 Assignments
 
-## 🚀 Project Goals
-- **Automate data analysis** and visualization.
-- Integrate **Gemini API** for financial and text-based analysis.
-- Enhance **AI-driven storytelling** capabilities.
-- Streamline report generation via **Google Sheets**.
+### Assignment 1: Gen Z Hip-Hop Chatbot
+[Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_1_Gen_Z_Hip_Hop_Chatbot.ipynb)
+- Develop a chatbot with a **Gen Z hip-hop artist persona**.
+- Respond to student inquiries in a **chill and engaging manner**.
+- Provide **professional insights into hip-hop culture**.
 
----
+### Assignment 2:
 
-## 📂 Output
-All analyses and generated content will be stored in **Google Sheets**, ensuring **easy access and real-time updates**.
+### Assignment 3
 
+### Assignment 4
 ---
 
 Stay tuned for updates and improvements! 🚀
