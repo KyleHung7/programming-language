@@ -190,6 +190,30 @@ This is a box plot that visualizes the distribution of 2024 revenue across diffe
 - Generate a bar chart of word frequencies to highlight common terms and their occurrences.
 
 ![newplot (31)](https://github.com/user-attachments/assets/4b4923fa-5938-4968-98ef-8498515272db)
+General Overview
+The image is a bar chart that displays the frequency of the top 30 keywords. Each keyword is presented along the x-axis (Word), while the y-axis (Frequency) represents the number of occurrences.
+
+Key Insights from the Chart
+- Most Frequent Keywords:- 營收 (Revenue): 958 occurrences
+- 獲利 (Profit): 624 occurrences
+- 下滑 (Decline): 391 occurrences
+
+- Other Notable Keywords:- 成長 (Growth): 259 occurrences
+- 波動 (Fluctuation): 199 occurrences
+- 尚可 (Fair): 82 occurrences
+
+- Keywords with Lower Frequencies (Rank 25-30):- 建業 (Establishment): 24 occurrences
+- 近年 (Recent Years): 22 occurrences
+- 公司 (Company): 21 occurrences
+- 獲利佳 (Good Profit): 20 occurrences
+
+Visual Design
+- The bars vary in height, with the tallest bar representing the most frequent keyword ("營收").
+- Bars are uniformly spaced, and each keyword is clearly labeled for readability.
+
+This chart effectively highlights the prominence and distribution of keywords, offering valuable insights into their relevance in the dataset.
+
+
 ![newplot (32)](https://github.com/user-attachments/assets/812a6a29-bf42-456d-957f-587cf6db51e9)
 
 - The image is a word cloud featuring various Chinese characters in different colors and sizes. The overall design emphasizes key terms, with larger words representing higher frequency or importance.
