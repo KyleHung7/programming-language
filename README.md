@@ -203,8 +203,6 @@ The plotted line demonstrates:
 The **elbow point**, visible around **K=4**, marks the point where inertia begins to decrease at a slower rate, indicating the best number of clusters for the dataset.
 
 ![newplot (41)](https://github.com/user-attachments/assets/c4f9cf55-283b-4611-8582-27fe9f46d46f)
-Here's a description for the scatter plot in markdown format:
-# PCA + K-Means Clustering Result
 
 The scatter plot illustrates the results of applying Principal Component Analysis (PCA) and K-Means clustering to a dataset.
 
@@ -238,8 +236,6 @@ This heatmap effectively highlights areas of high and low correlation among feat
 
 
 ![newplot (43)](https://github.com/user-attachments/assets/f24a159a-39bd-4630-ad38-be912d2118f1)
-Here’s the description for your chart, incorporating the provided cluster details:
-# 2023年營業收入 Distribution by Cluster
 
 The box plot illustrates the distribution of **2023年營業收入 (Operating Revenue)** across four cluster groups, offering insights into the revenue patterns among different types of companies.
 
