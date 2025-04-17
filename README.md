@@ -216,7 +216,28 @@ This chart effectively highlights the prominence and distribution of keywords, o
 
 ![newplot (32)](https://github.com/user-attachments/assets/812a6a29-bf42-456d-957f-587cf6db51e9)
 
-- The image is a word cloud featuring various Chinese characters in different colors and sizes. The overall design emphasizes key terms, with larger words representing higher frequency or importance.
+General Overview
+The image is a visually engaging word cloud created using Chinese characters and phrases. The text varies in size and color, where larger words represent higher frequency or importance in the dataset.
+
+Prominent Words
+Some of the largest and most noticeable words include:
+- 營收 ("Revenue")
+- 獲利 ("Profit")
+- 成長 ("Growth")
+- 持續 ("Sustain")
+- 波動 ("Fluctuation")
+- 下滑 ("Decline")
+- 穩定 ("Stable")
+These terms suggest a focus on financial and business contexts.
+
+Design Elements
+- Font Sizes: Larger fonts correspond to words with greater significance or frequency.
+- Colors: Shades of blue, green, yellow, and purple are used, enhancing the visual appeal.
+- Layout: The words are scattered in a non-linear arrangement, creating a dynamic and visually interesting composition.
+
+This word cloud effectively captures the essence of the dataset, summarizing important terms at a glance.
+
+
 ---
 
 Stay tuned for updates and improvements! 🚀
