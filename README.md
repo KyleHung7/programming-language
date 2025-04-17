@@ -76,8 +76,9 @@ By analyzing legal documents as an example, students will learn to **collect and
 - Generate **bar charts & line graphs** for visualization.
 - Utilize **Gemini API** for enhanced financial analysis.
 - Output results to **Google Sheets**.
+  
 
-📊 Chart 1: 前 10 大企業 2024 年營收比較 (Top 10 Companies by Revenue in 2024)
+#### 📊 Chart 1: 前 10 大企業 2024 年營收比較 (Top 10 Companies by Revenue in 2024)
 ![newplot (24)](https://github.com/user-attachments/assets/ee04ebb1-6497-448b-aaef-0f89d8b84247)
 - Purpose: This bar chart compares the total revenue (營收) in NTD of the top 10 companies for the year 2024.
 
@@ -90,11 +91,35 @@ By analyzing legal documents as an example, students will learn to **collect and
   - The rest of the companies, including 和碩, 廣達, and 仁寶, follow with gradually decreasing revenues under 1 trillion NTD.
 
 - Insight: Hon Hai has a significantly larger revenue than all the others, more than doubling TSMC, which is the next in line.
-
+  
+#### 💰 Chart 2: 前 10 大企業 2024 年淨利比較 (Top 10 Companies by Net Profit in 2024)
 ![newplot (25)](https://github.com/user-attachments/assets/3496a39d-a8e9-433c-80fe-50515cc869fd)
+- Purpose: This horizontal bar chart shows the net profit (淨利) for each of the top 10 companies in 2024.
 
+- Key Highlights:
+
+  - 台積電 (TSMC) is the clear leader in profitability, with net profit approaching 700 billion NTD, far ahead of others.
+
+  - 鴻海 comes in second, followed by 廣達 and 日月光投控.
+
+  - Some companies with high revenue like 仁寶 and 大聯大 report relatively low profits.
+
+- Insight: TSMC's profitability far outpaces others, suggesting a high margin and operational efficiency compared to its peers.
+
+
+#### 📈 Chart 3: 前 10 大企業 EPS（每股盈餘）趨勢 (Top 10 Companies EPS Trends: 2023 to 2024)
 ![newplot (26)](https://github.com/user-attachments/assets/fda4910b-2675-4ccc-9c88-87e4057a62ec)
+- Purpose: This line chart displays the year-over-year trend in EPS (Earnings Per Share, 每股盈餘) from 2023 to 2024.
 
+- Key Highlights:
+
+  - 台積電 again leads with the highest EPS in both years, rising from 23.13 to 30.8 NTD, showing strong earnings growth.
+
+  - 鴻海 and 日月光投控 also show healthy EPS, both seeing slight increases.
+
+  - Most companies show a small but consistent rise in EPS, indicating improving profitability.
+
+- Insight: The upward trends suggest a positive financial outlook for most of these companies, with TSMC once again standing out for shareholder value.
 
 
 ### Assignment 3: Advanced 2024 Q3 Financial Report Analysis with Machine Learning
