@@ -237,6 +237,17 @@ Design Elements
 
 This word cloud effectively captures the essence of the dataset, summarizing important terms at a glance.
 
+精確模式
+![newplot (34)](https://github.com/user-attachments/assets/cc0c292a-f1fb-4033-acae-52817ecec458)
+![newplot (35)](https://github.com/user-attachments/assets/1714bce8-717f-4e57-86cb-7dd97134ebfe)
+
+全模式
+![newplot (36)](https://github.com/user-attachments/assets/e18cb32b-be0f-425c-bfeb-4010f9f8d9fa)
+![newplot (37)](https://github.com/user-attachments/assets/4abf3093-1a0f-48f5-bdea-48550931aec9)
+
+搜尋模式
+![newplot (38)](https://github.com/user-attachments/assets/129455f5-d029-4042-bcd7-3689ebd6d361)
+![newplot (39)](https://github.com/user-attachments/assets/ea6da6b9-e3cc-4817-9a73-a073c3cebb9b)
 
 ---
 
