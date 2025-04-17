@@ -134,7 +134,6 @@ By analyzing legal documents as an example, students will learn to **collect and
 - The elbow was clearly observed at **K = 3**, suggesting:
   - Three clusters provide a **well-balanced trade-off** between model complexity and cluster compactness.
   - Segmenting the companies into three groups captures the **most meaningful variance** in the data without overfitting.
-!
 
 ![newplot (28)](https://github.com/user-attachments/assets/449d00fc-23fb-4a8c-9f13-70f37b321c91)
 - Axes
