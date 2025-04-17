@@ -266,7 +266,6 @@ Key highlights:
 - Prominent words, showcased in the largest font sizes, include **"提供"** (*provide*), **"獲利"** (*profit*), **"台塑"** (*Formosa Plastics*), **"營收"** (*revenue*), **"幸福"** (*happiness*), **"成長"** (*growth*), **"規模"** (*scale*), **"財務"** (*finance*), and **"淨值"** (*net worth*).
 - Other notable terms such as **"南亞"** (*South Asia*), **"聯華食"** (*Uni-President Enterprises*), **"中石化"** (*Sinopec*), **"天仁"** (*Ten Ren Tea*), and **"大成"** (*achievement*) appear in varied sizes.
 - The vibrant colors and dynamic arrangement make the word cloud visually engaging and intuitive for identifying key themes or patterns.
-
 This word cloud provides an impactful visual summary of frequently mentioned keywords, offering insights into the primary topics or trends within the analyzed content.
 ---
 
