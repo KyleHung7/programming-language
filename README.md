@@ -225,10 +225,10 @@ Key highlights:
 - The most frequent keyword is "提供", with a count of 45.
 - Following that, "營收" and "公司" each have a frequency of 11.
 - Other notable keywords include:
-  - **"台塑"**: 6
-  - **"大成"**: 5
-  - **"味全"**: 4
-  - **"能力"**: 4
+  - "台塑": 6
+  - "大成": 5
+  - "味全": 4
+  - "能力": 4
 
 This chart offers a comprehensive visual overview of keyword frequency, making it easier to identify prominent themes or patterns in the dataset.
 ![newplot (37)](https://github.com/user-attachments/assets/4abf3093-1a0f-48f5-bdea-48550931aec9)
