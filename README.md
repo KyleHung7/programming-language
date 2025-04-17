@@ -199,8 +199,8 @@ The image is a bar chart titled **"精確模式 - 關鍵字出現次數統計（
 - **Y-axis**: Indicates the frequency of occurrence.
 
 Key highlights:
-- The keyword **"提供"** appears the most frequently, with a count of **45**.
-- Other notable keywords include **"營收"** (*revenue*) with a count of **11** and **"公司"** (*company*) with **10**.
+- The keyword "提供" appears the most frequently, with a count of 45.
+- Other notable keywords include "營收" (*revenue*) with a count of 11 and "公司" (*company*) with 10.
 
 This chart effectively illustrates keyword usage trends, which may be valuable for identifying key themes in the analyzed content.
 ![newplot (35)](https://github.com/user-attachments/assets/1714bce8-717f-4e57-86cb-7dd97134ebfe)
@@ -208,7 +208,7 @@ This chart effectively illustrates keyword usage trends, which may be valuable f
 The image is a word cloud titled **"精確模式 - 文字雲"** (*Precision Mode - Word Cloud*). It showcases various Chinese characters in different colors and sizes, which represent their frequency or importance in the analyzed content. 
 
 Key highlights include:
-- The most prominent words, displayed in the largest size, are **"提供"**, **"營收"**, **"公司"**, **"成長"**, and **"環泥"**.
+- The most prominent words, displayed in the largest size, are "提供", "營收", "公司", "成長", and "環泥".
 - The vibrant colors and varied text sizes make the key terms visually stand out, making it easier to identify trends or key themes.
 
 This word cloud appears to be related to topics like business, finance, and industry, providing a snapshot of the most significant terms in the content.
@@ -222,8 +222,8 @@ The image is a bar chart titled **"全模式 - 關鍵字出現次數統計 (前3
 - **Y-axis**: Indicates the frequency of occurrence.
 
 Key highlights:
-- The most frequent keyword is **"提供"**, with a count of **45**.
-- Following that, **"營收"** and **"公司"** each have a frequency of **11**.
+- The most frequent keyword is "提供", with a count of 45.
+- Following that, "營收" and "公司" each have a frequency of 11.
 - Other notable keywords include:
   - **"台塑"**: 6
   - **"大成"**: 5
@@ -236,8 +236,8 @@ This chart offers a comprehensive visual overview of keyword frequency, making i
 The image is a word cloud that features various Chinese characters presented in diverse colors and sizes, reflecting their significance or frequency in the analyzed text. 
 
 Key highlights:
-- The most prominent terms, displayed in the largest font sizes, include **"收成"** (*harvest*), **"营收"** (*revenue*), **"大成"** (*achievement*), and **"比率"** (*ratio*).
-- Other notable keywords such as **"幸福"** (*happiness*), **"净值"** (*net value*), **"分析"** (*analysis*), and **"公司"** (*company*) are also visible.
+- The most prominent terms, displayed in the largest font sizes, include "收成" (*harvest*), "营收" (*revenue*), "大成" (*achievement*), and "比率" (*ratio*).
+- Other notable keywords such as "幸福" (*happiness*), "净值" (*net value*), "分析" (*analysis*), and "公司" (*company*) are also visible.
 - The vibrant colors and varied text sizes enhance the visual appeal, helping to emphasize the importance of certain themes or concepts.
 
 This word cloud offers an engaging way to identify key topics and trends within the content, making it useful for data visualization or presentation purposes.
@@ -251,10 +251,10 @@ The image is a bar chart titled **"搜尋模式 - 關鍵字出現次數統計 (�
 - **Y-axis**: Indicates the frequency of occurrence.
 
 Key highlights:
-- The most frequent keyword is **"提供"**, with a count of **45** occurrences.
-- Notable keywords include **"公司"** and **"營收"**, each with a count of **11**.
-- Other keywords such as **"表現"**, **"台塑"**, **"大成"**, **"規模"**, **"成長"**, and **"財務"** appear with frequencies ranging from **6** to **5**.
-- The remaining keywords have frequencies of **4** or **3**.
+- The most frequent keyword is "提供", with a count of 45 occurrences.
+- Notable keywords include "公司" and "營收", each with a count of 11.
+- Other keywords such as "表現", "台塑", "大成", "規模", "成長", and "財務" appear with frequencies ranging from 6 to 5.
+- The remaining keywords have frequencies of 4 or 3.
 
 This chart provides a comprehensive view of keyword frequency trends, allowing for quick identification of prominent themes in the data.
 
@@ -263,8 +263,8 @@ This chart provides a comprehensive view of keyword frequency trends, allowing f
 The image is a word cloud that displays various Chinese characters in a range of colors and sizes, reflecting their significance or frequency in the analyzed text or dataset.
 
 Key highlights:
-- Prominent words, showcased in the largest font sizes, include **"提供"** (*provide*), **"獲利"** (*profit*), **"台塑"** (*Formosa Plastics*), **"營收"** (*revenue*), **"幸福"** (*happiness*), **"成長"** (*growth*), **"規模"** (*scale*), **"財務"** (*finance*), and **"淨值"** (*net worth*).
-- Other notable terms such as **"南亞"** (*South Asia*), **"聯華食"** (*Uni-President Enterprises*), **"中石化"** (*Sinopec*), **"天仁"** (*Ten Ren Tea*), and **"大成"** (*achievement*) appear in varied sizes.
+- Prominent words, showcased in the largest font sizes, include "提供" (*provide*), "獲利" (*profit*), "台塑" (*Formosa Plastics*), "營收" (*revenue*), "幸福" (*happiness*), "成長" (*growth*), "規模" (*scale*), "財務" (*finance*), and "淨值" (*net worth*).
+- Other notable terms such as "南亞" (*South Asia*), "聯華食" (*Uni-President Enterprises*), "中石化" (*Sinopec*), "天仁" (*Ten Ren Tea*), and "大成" (*achievement*) appear in varied sizes.
 - The vibrant colors and dynamic arrangement make the word cloud visually engaging and intuitive for identifying key themes or patterns.
 This word cloud provides an impactful visual summary of frequently mentioned keywords, offering insights into the primary topics or trends within the analyzed content.
 ---
