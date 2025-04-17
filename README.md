@@ -77,10 +77,10 @@ By analyzing legal documents as an example, students will learn to **collect and
   - **Y-Axis**: PCA Component 2
 
 - Clusters
-  1. **Cluster 0 (Red)**: Dispersed, above and to the right.
-  2. **Cluster 2 (Blue)**: Tightly grouped near the origin.
-  3. **Cluster 1 (Green)**: A lone point far to the right.
-
+  - **Cluster 0 (Red)**: Dispersed, above and to the right.
+  - **Cluster 1 (Green)**: A lone point far to the right.
+  - **Cluster 2 (Blue)**: Tightly grouped near the origin.
+  
 - Insights
   - Demonstrates **PCA** for dimensionality reduction.
   - Highlights **K-Means**' ability to uncover clusters.
