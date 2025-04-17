@@ -133,6 +133,7 @@ By analyzing legal documents as an example, students will learn to **collect and
 - Visualize clustering results with **box plots**.
 ![newplot (27)](https://github.com/user-attachments/assets/751c9788-a697-4c0c-b547-755f5114c93e)
 ![newplot (28)](https://github.com/user-attachments/assets/449d00fc-23fb-4a8c-9f13-70f37b321c91)
+
 ![newplot (29)](https://github.com/user-attachments/assets/90b5632b-5d09-41b8-ad24-780900054ab6)
 This heatmap shows the linear correlation between various financial variables (such as Revenue, Net Income, EPS) and the results of PCA (Principal Component Analysis) and Clustering.
 
@@ -148,7 +149,19 @@ This heatmap shows the linear correlation between various financial variables (s
 
 
 ![newplot (30)](https://github.com/user-attachments/assets/58070a36-098c-4685-b008-d989cd9db74c)
+This is a box plot that visualizes the distribution of 2024 revenue across different clusters:
 
+- X-axis: Cluster group labels (Cluster 0, 1, 2)
+
+- Y-axis: Revenue_2024 (represented in scientific notation or log scale)
+
+- Key takeaways:
+
+  - Cluster 1 has a noticeably higher median revenue—companies in this group tend to have large revenues.
+
+  - Cluster 0 consists of lower-revenue companies.
+
+  - Cluster 2 shows a wider range, with a few outliers, but most of the companies are still in the mid-to-low revenue range.
 
   
 ### Assignment 4: Advanced 2019-2023 Financial Report Analysis with Machine Learning
