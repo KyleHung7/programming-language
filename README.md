@@ -189,7 +189,93 @@ This is a box plot that visualizes the distribution of 2024 revenue across diffe
 - Create a word cloud to visualize the most frequent terms in the text data.
 - Generate a bar chart of word frequencies to highlight common terms and their occurrences.
 
+![newplot (40)](https://github.com/user-attachments/assets/f3f5b43a-29f4-45ca-afab-f5b0159e1326)
 
+The graph shows the relationship between the number of clusters (K) and inertia (SSE), helping identify the optimal number of clusters. 
+
+- **X-axis**: Number of clusters, ranging from 2 to 10.
+- **Y-axis**: Inertia (SSE), spanning approximately 45,000 to 75,000.
+
+The plotted line demonstrates:
+- A sharp decrease in inertia between **K=2** and **K=4**.
+- A more gradual descent from **K=4** to **K=10**.
+
+The **elbow point**, visible around **K=4**, marks the point where inertia begins to decrease at a slower rate, indicating the best number of clusters for the dataset.
+
+![newplot (41)](https://github.com/user-attachments/assets/c4f9cf55-283b-4611-8582-27fe9f46d46f)
+Here's a description for the scatter plot in markdown format:
+# PCA + K-Means Clustering Result
+
+The scatter plot illustrates the results of applying Principal Component Analysis (PCA) and K-Means clustering to a dataset.
+
+- **Axes**: 
+  - **X-axis**: PCA Component 1
+  - **Y-axis**: PCA Component 2
+
+- **Clusters**:
+  - Data points are color-coded to represent four clusters (red, blue, green, and purple).
+  - **Red and blue clusters**: Dense and located near the origin.
+  - **Green and purple clusters**: More dispersed and further from the origin.
+
+This visualization highlights the use of PCA for dimensionality reduction and K-Means clustering to separate distinct groups within a dataset.
+
+
+![newplot (42)](https://github.com/user-attachments/assets/f5cfb46a-438b-47dd-864a-89169b992090)
+
+This heatmap visualizes the correlation between multiple features, helping to identify relationships for data analysis or machine learning tasks. 
+
+- **Color Gradient**: 
+  - Dark purple represents low correlation.
+  - Bright yellow indicates high correlation.
+
+- **Scale**: 
+  - A bar on the right displays the correlation range, spanning from 0 to 1.
+
+- **Axes**: 
+  - Features are labeled in Chinese characters along both the x-axis and y-axis.
+
+This heatmap effectively highlights areas of high and low correlation among features, aiding in insightful data exploration.
+
+
+![newplot (43)](https://github.com/user-attachments/assets/f24a159a-39bd-4630-ad38-be912d2118f1)
+Here’s the description for your chart, incorporating the provided cluster details:
+# 2023年營業收入 Distribution by Cluster
+
+The box plot illustrates the distribution of **2023年營業收入 (Operating Revenue)** across four cluster groups, offering insights into the revenue patterns among different types of companies.
+
+- **Y-axis**: 營業收入 (NT$) (Operating Revenue in NT$).
+- **X-axis**: Cluster Group (0, 1, 2, 3).
+
+### Cluster Details:
+- **Cluster 0**: A diverse group with a wide range of revenue values and multiple outliers. This cluster includes companies from various industries, such as 嘉泥, 環泥, 幸福, 信大, 東泥, and more.
+- **Cluster 1**: Features a more concentrated revenue range with fewer outliers. Key representatives are 台泥, 亞泥, 統一, 台塑, 南亞, and others.
+- **Cluster 2**: Consists solely of 鴻海, with a single revenue value.
+- **Cluster 3**: Represents 台積電, showing a single value with significantly higher revenue compared to the other clusters.
+
+This visualization emphasizes the variation in operating revenue among the clusters, highlighting the dominance of specific companies in Clusters 2 and 3.
+
+
+![newplot (44)](https://github.com/user-attachments/assets/b9fdb2f7-c61c-404e-85f1-ed2db8440eb2)
+
+This radar chart provides a comparison of financial characteristics across four clusters for the year 2023, using the following metrics:
+
+- **Metrics**:
+  - **2023年營業收入**: 2023 Operating Revenue
+  - **2023年營業利益**: 2023 Operating Profit
+  - **2023年每股盈餘(元)**: 2023 Earnings Per Share (in dollars)
+  - **稅後淨利(淨損)**: Net Profit (Net Loss) After Tax
+
+- **Clusters**:
+  - **Cluster 0**: Represented in blue.
+  - **Cluster 1**: Represented in red.
+  - **Cluster 2**: Represented in green.
+  - **Cluster 3**: Represented in purple.
+
+The radar chart reveals distinct financial patterns for each cluster. For example:
+- Clusters **2** and **3** (single-company clusters: 鴻海 and 台積電, respectively) exhibit unique financial characteristics, standing out from the more diverse Clusters **0** and **1**.
+- Cluster **1** demonstrates moderate values across all metrics, while Cluster **0** shows greater variability, reflecting the diversity of companies within the group.
+
+This visualization enables clear and effective comparison of financial performance between clusters.
 
 ![newplot (34)](https://github.com/user-attachments/assets/cc0c292a-f1fb-4033-acae-52817ecec458)
 
