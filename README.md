@@ -72,6 +72,20 @@ By analyzing legal documents as an example, students will learn to **collect and
   
 ![image](https://github.com/user-attachments/assets/a6830449-6acf-4dae-9843-8d4123a2791e)
 
+- Axes
+  - **X-Axis**: PCA Component 1
+  - **Y-Axis**: PCA Component 2
+
+- Clusters
+  1. **Cluster 0 (Red)**: Dispersed, above and to the right.
+  2. **Cluster 2 (Blue)**: Tightly grouped near the origin.
+  3. **Cluster 1 (Green)**: A lone point far to the right.
+
+- Insights
+  - Demonstrates **PCA** for dimensionality reduction.
+  - Highlights **K-Means**' ability to uncover clusters.
+
+
 
 ### Assignment 2: Advanced 2024 Q3 Financial Report Analysis
 [Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_5_Advanced_2024_Q3_Financial_Report_Analysis.ipynb)
