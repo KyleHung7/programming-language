@@ -192,6 +192,7 @@ This is a box plot that visualizes the distribution of 2024 revenue across diffe
 ![newplot (31)](https://github.com/user-attachments/assets/4b4923fa-5938-4968-98ef-8498515272db)
 ![newplot (32)](https://github.com/user-attachments/assets/812a6a29-bf42-456d-957f-587cf6db51e9)
 
+- The image is a word cloud featuring various Chinese characters in different colors and sizes. The overall design emphasizes key terms, with larger words representing higher frequency or importance.
 ---
 
 Stay tuned for updates and improvements! 🚀
