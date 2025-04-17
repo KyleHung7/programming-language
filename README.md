@@ -51,6 +51,17 @@ By analyzing legal documents as an example, students will learn to **collect and
 - Perform **one-hot encoding** for categorical data.
 - Use a **heatmap** to compare correlations between different fields.
 - Visualize clustering results with **box plots**.
+
+### 🔹 Week 8: Advanced 2019-2023 Financial Report Analysis with Machine Learning
+[Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_8_Advanced_2019_2023_Financial_Report_Analysis.ipynb)
+- Apply Principal Component Analysis (PCA) and K-Means clustering, utilizing the elbow method to identify the optimal number of clusters.
+- Perform one-hot encoding on categorical features to convert them into numerical format.
+- Generate a correlation heatmap to visualize relationships between different variables.
+- Use box plots to illustrate and compare the distribution of data across clusters.
+- Apply word segmentation on text fields using jieba for Chinese text processing.
+- Create a word cloud to visualize the most frequent terms in the text data.
+
+Generate a bar chart of word frequencies to highlight common terms and their occurrences.
 ---
 ## 📅 Assignments
 
