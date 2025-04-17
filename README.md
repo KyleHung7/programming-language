@@ -69,6 +69,8 @@ By analyzing legal documents as an example, students will learn to **collect and
 - Develop a chatbot with a **Gen Z hip-hop artist persona**.
 - Respond to student inquiries in a **chill and engaging manner**.
 - Provide **professional insights into hip-hop culture**.
+![image](https://github.com/user-attachments/assets/a6830449-6acf-4dae-9843-8d4123a2791e)
+
 
 ### Assignment 2: Advanced 2024 Q3 Financial Report Analysis
 [Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_5_Advanced_2024_Q3_Financial_Report_Analysis.ipynb)
