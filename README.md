@@ -134,6 +134,19 @@ By analyzing legal documents as an example, students will learn to **collect and
 ![newplot (27)](https://github.com/user-attachments/assets/751c9788-a697-4c0c-b547-755f5114c93e)
 ![newplot (28)](https://github.com/user-attachments/assets/449d00fc-23fb-4a8c-9f13-70f37b321c91)
 ![newplot (29)](https://github.com/user-attachments/assets/90b5632b-5d09-41b8-ad24-780900054ab6)
+This heatmap shows the linear correlation between various financial variables (such as Revenue, Net Income, EPS) and the results of PCA (Principal Component Analysis) and Clustering.
+
+- The closer the color is to yellow (positive values), the stronger the positive correlation; blue/purple tones indicate negative correlation.
+
+- For example:
+
+  - Pre_Tax_Profit_2024 is strongly positively correlated with Net_Income_2024 and Profit_After_Tax_2024.
+
+  - PCA1 shows a noticeable positive correlation with some revenue-related variables like Revenue_2024, indicating that the principal components capture core financial features.
+
+- The heatmap also reveals redundancy—some features are highly correlated and might be conveying overlapping information, which is useful for dimensionality reduction or feature selection.
+
+
 ![newplot (30)](https://github.com/user-attachments/assets/58070a36-098c-4685-b008-d989cd9db74c)
 
 
