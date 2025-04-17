@@ -60,8 +60,7 @@ By analyzing legal documents as an example, students will learn to **collect and
 - Use box plots to illustrate and compare the distribution of data across clusters.
 - Apply word segmentation on text fields using jieba for Chinese text processing.
 - Create a word cloud to visualize the most frequent terms in the text data.
-
-Generate a bar chart of word frequencies to highlight common terms and their occurrences.
+- Generate a bar chart of word frequencies to highlight common terms and their occurrences.
 ---
 ## 📅 Assignments
 
