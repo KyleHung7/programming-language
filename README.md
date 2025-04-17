@@ -128,6 +128,12 @@ By analyzing legal documents as an example, students will learn to **collect and
 - Perform **one-hot encoding** for categorical data.
 - Use a **heatmap** to compare correlations between different fields.
 - Visualize clustering results with **box plots**.
+![newplot (27)](https://github.com/user-attachments/assets/751c9788-a697-4c0c-b547-755f5114c93e)
+![newplot (28)](https://github.com/user-attachments/assets/449d00fc-23fb-4a8c-9f13-70f37b321c91)
+![newplot (29)](https://github.com/user-attachments/assets/90b5632b-5d09-41b8-ad24-780900054ab6)
+![newplot (30)](https://github.com/user-attachments/assets/58070a36-098c-4685-b008-d989cd9db74c)
+
+
   
 ### Assignment 4: Advanced 2019-2023 Financial Report Analysis with Machine Learning
 [Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_8_Advanced_2019_2023_Financial_Report_Analysis.ipynb)
@@ -138,6 +144,10 @@ By analyzing legal documents as an example, students will learn to **collect and
 - Apply word segmentation on text fields using jieba for Chinese text processing.
 - Create a word cloud to visualize the most frequent terms in the text data.
 - Generate a bar chart of word frequencies to highlight common terms and their occurrences.
+
+![newplot (31)](https://github.com/user-attachments/assets/4b4923fa-5938-4968-98ef-8498515272db)
+![newplot (32)](https://github.com/user-attachments/assets/812a6a29-bf42-456d-957f-587cf6db51e9)
+
 ---
 
 Stay tuned for updates and improvements! 🚀
