@@ -72,21 +72,6 @@ By analyzing legal documents as an example, students will learn to **collect and
   
 ![image](https://github.com/user-attachments/assets/a6830449-6acf-4dae-9843-8d4123a2791e)
 
-- Axes
-  - **X-Axis**: PCA Component 1
-  - **Y-Axis**: PCA Component 2
-
-- Clusters
-  - **Cluster 0 (Red)**: Dispersed, above and to the right.
-  - **Cluster 1 (Green)**: A lone point far to the right.
-  - **Cluster 2 (Blue)**: Tightly grouped near the origin.
-  
-- Insights
-  - Demonstrates **PCA** for dimensionality reduction.
-  - Highlights **K-Means**' ability to uncover clusters.
-
-
-
 ### Assignment 2: Advanced 2024 Q3 Financial Report Analysis
 [Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_5_Advanced_2024_Q3_Financial_Report_Analysis.ipynb)
 - **Refine and clean** financial data.
@@ -146,10 +131,24 @@ By analyzing legal documents as an example, students will learn to **collect and
 - Use a **heatmap** to compare correlations between different fields.
 - Visualize clustering results with **box plots**.
 ![newplot (27)](https://github.com/user-attachments/assets/751c9788-a697-4c0c-b547-755f5114c93e)
-To identify the most appropriate number of clusters for segmenting the financial data, the Elbow Method was employed. This method involves plotting the within-cluster sum of squares (WCSS) against different values of K (the number of clusters).
-As the number of clusters increases, WCSS decreases due to better fit. However, after a certain point, the marginal improvement drops significantly — this point is referred to as the "elbow."
-In this analysis, the elbow was clearly observed at K = 3, indicating that three clusters provide a well-balanced trade-off between model complexity and cluster compactness. This suggests that segmenting the companies into three groups captures the most meaningful variance in the data without overfitting.
+- The elbow was clearly observed at **K = 3**, suggesting:
+  - Three clusters provide a **well-balanced trade-off** between model complexity and cluster compactness.
+  - Segmenting the companies into three groups captures the **most meaningful variance** in the data without overfitting.
+!
+
 ![newplot (28)](https://github.com/user-attachments/assets/449d00fc-23fb-4a8c-9f13-70f37b321c91)
+- Axes
+  - **X-Axis**: PCA Component 1
+  - **Y-Axis**: PCA Component 2
+
+- Clusters
+  - **Cluster 0 (Red)**: Dispersed, above and to the right.
+  - **Cluster 1 (Green)**: A lone point far to the right.
+  - **Cluster 2 (Blue)**: Tightly grouped near the origin.
+  
+- Insights
+  - Demonstrates **PCA** for dimensionality reduction.
+  - Highlights **K-Means**' ability to uncover clusters.
 
 ![newplot (29)](https://github.com/user-attachments/assets/90b5632b-5d09-41b8-ad24-780900054ab6)
 This heatmap shows the linear correlation between various financial variables (such as Revenue, Net Income, EPS) and the results of PCA (Principal Component Analysis) and Clustering.
