@@ -76,7 +76,13 @@ By analyzing legal documents as an example, students will learn to **collect and
 - Generate **bar charts & line graphs** for visualization.
 - Utilize **Gemini API** for enhanced financial analysis.
 - Output results to **Google Sheets**.
-  
+
+![newplot (24)](https://github.com/user-attachments/assets/ee04ebb1-6497-448b-aaef-0f89d8b84247)
+![newplot (25)](https://github.com/user-attachments/assets/3496a39d-a8e9-433c-80fe-50515cc869fd)
+![newplot (26)](https://github.com/user-attachments/assets/fda4910b-2675-4ccc-9c88-87e4057a62ec)
+
+
+
 ### Assignment 3: Advanced 2024 Q3 Financial Report Analysis with Machine Learning
 [Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_6_Advanced_2024_Q3_Financial_Report_Analysis_with_Machine_Learning.ipynb)
 - Apply **PCA and K-Means clustering** (using the **elbow method** to determine the optimal number of clusters).
