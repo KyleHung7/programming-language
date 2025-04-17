@@ -70,11 +70,29 @@ By analyzing legal documents as an example, students will learn to **collect and
 - Respond to student inquiries in a **chill and engaging manner**.
 - Provide **professional insights into hip-hop culture**.
 
-### Assignment 2:
-
-### Assignment 3
-
-### Assignment 4
+### Assignment 2: Advanced 2024 Q3 Financial Report Analysis
+[Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_5_Advanced_2024_Q3_Financial_Report_Analysis.ipynb)
+- **Refine and clean** financial data.
+- Generate **bar charts & line graphs** for visualization.
+- Utilize **Gemini API** for enhanced financial analysis.
+- Output results to **Google Sheets**.
+  
+### Assignment 3: Advanced 2024 Q3 Financial Report Analysis with Machine Learning
+[Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_6_Advanced_2024_Q3_Financial_Report_Analysis_with_Machine_Learning.ipynb)
+- Apply **PCA and K-Means clustering** (using the **elbow method** to determine the optimal number of clusters).
+- Perform **one-hot encoding** for categorical data.
+- Use a **heatmap** to compare correlations between different fields.
+- Visualize clustering results with **box plots**.
+  
+### Assignment 4: Advanced 2019-2023 Financial Report Analysis with Machine Learning
+[Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_8_Advanced_2019_2023_Financial_Report_Analysis.ipynb)
+- Apply Principal Component Analysis (PCA) and K-Means clustering, utilizing the elbow method to identify the optimal number of clusters.
+- Perform one-hot encoding on categorical features to convert them into numerical format.
+- Generate a correlation heatmap to visualize relationships between different variables.
+- Use box plots to illustrate and compare the distribution of data across clusters.
+- Apply word segmentation on text fields using jieba for Chinese text processing.
+- Create a word cloud to visualize the most frequent terms in the text data.
+- Generate a bar chart of word frequencies to highlight common terms and their occurrences.
 ---
 
 Stay tuned for updates and improvements! 🚀
