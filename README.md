@@ -77,8 +77,22 @@ By analyzing legal documents as an example, students will learn to **collect and
 - Utilize **Gemini API** for enhanced financial analysis.
 - Output results to **Google Sheets**.
 
+📊 Chart 1: 前 10 大企業 2024 年營收比較 (Top 10 Companies by Revenue in 2024)
 ![newplot (24)](https://github.com/user-attachments/assets/ee04ebb1-6497-448b-aaef-0f89d8b84247)
+- Purpose: This bar chart compares the total revenue (營收) in NTD of the top 10 companies for the year 2024.
+
+- Key Highlights:
+
+  - 鴻海 (Hon Hai/Foxconn) dominates with the highest revenue, exceeding 4.2 trillion NTD.
+
+  - 台積電 (TSMC) ranks second, with just over 1.5 trillion NTD.
+
+  - The rest of the companies, including 和碩, 廣達, and 仁寶, follow with gradually decreasing revenues under 1 trillion NTD.
+
+- Insight: Hon Hai has a significantly larger revenue than all the others, more than doubling TSMC, which is the next in line.
+
 ![newplot (25)](https://github.com/user-attachments/assets/3496a39d-a8e9-433c-80fe-50515cc869fd)
+
 ![newplot (26)](https://github.com/user-attachments/assets/fda4910b-2675-4ccc-9c88-87e4057a62ec)
 
 
