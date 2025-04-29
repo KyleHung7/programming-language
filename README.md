@@ -61,6 +61,10 @@ By analyzing legal documents as an example, students will learn to **collect and
 - Apply word segmentation on text fields using jieba for Chinese text processing.
 - Create a word cloud to visualize the most frequent terms in the text data.
 - Generate a bar chart of word frequencies to highlight common terms and their occurrences.
+
+
+### 🔹 Week 8: Advanced 2019-2023 Financial Report Analysis Gemini Text
+[Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_9_Advanced_2019_2023_Financial_Report_Analysis_Gemini_Text.ipynb)
 ---
 ## 📅 Assignments
 
@@ -349,6 +353,12 @@ Key highlights:
 - Other notable terms such as "南亞" (*South Asia*), "聯華食" (*Uni-President Enterprises*), "中石化" (*Sinopec*), "天仁" (*Ten Ren Tea*), and "大成" (*achievement*) appear in varied sizes.
 - The vibrant colors and dynamic arrangement make the word cloud visually engaging and intuitive for identifying key themes or patterns.
 This word cloud provides an impactful visual summary of frequently mentioned keywords, offering insights into the primary topics or trends within the analyzed content.
+
+
+  
+### Assignment 5: Advanced 2019-2023 Financial Report Analysis Gemini Text
+[Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_9_Advanced_2019_2023_Financial_Report_Analysis_Gemini_Text.ipynb)
+
 ---
 
 Stay tuned for updates and improvements! 🚀
