@@ -63,9 +63,15 @@ By analyzing legal documents as an example, students will learn to **collect and
 - Generate a bar chart of word frequencies to highlight common terms and their occurrences.
 
 
-### 🔹 Week 8: Advanced 2019-2023 Financial Report Analysis Gemini Text
+### 🔹 Week 9: Advanced 2019-2023 Financial Report Analysis Gemini Text
 [Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_9_Advanced_2019_2023_Financial_Report_Analysis_Gemini_Text.ipynb)
-
+- Convert the Gemini financial report analysis text into a DataFrame.
+- Perform performance level classification based on the data.
+- Apply word tokenization using Jieba's precise mode, full mode, and search engine mode for Chinese text processing.
+- Print out the performance status and tokenized results.
+- Generate a word cloud to visualize the most frequent terms in the text.
+- Create a bar chart to display word frequencies and highlight the most common terms.
+- Save the word frequency data into a CSV file for further analysis.
 ---
 ## 📅 Assignments
 
@@ -359,6 +365,16 @@ This word cloud provides an impactful visual summary of frequently mentioned key
   
 ### Assignment 5: Advanced 2019-2023 Financial Report Analysis Gemini Text
 [Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_9_Advanced_2019_2023_Financial_Report_Analysis_Gemini_Text.ipynb)
+- Convert the Gemini financial report analysis text into a DataFrame.
+- Perform performance level classification based on the data.
+- Apply word tokenization using Jieba's precise mode, full mode, and search engine mode for Chinese text processing.
+- Print out the performance status and tokenized results.
+- Generate a word cloud to visualize the most frequent terms in the text.
+- Create a bar chart to display word frequencies and highlight the most common terms.
+- Save the word frequency data into a CSV file for further analysis.
+
+
+
 
 ---
 
