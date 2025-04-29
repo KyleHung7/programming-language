@@ -65,6 +65,7 @@ By analyzing legal documents as an example, students will learn to **collect and
 
 ### 🔹 Week 8: Advanced 2019-2023 Financial Report Analysis Gemini Text
 [Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_9_Advanced_2019_2023_Financial_Report_Analysis_Gemini_Text.ipynb)
+
 ---
 ## 📅 Assignments
 
