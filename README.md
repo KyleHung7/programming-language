@@ -375,20 +375,46 @@ This word cloud provides an impactful visual summary of frequently mentioned key
 
 
 
+Revenue Growth Performance Classification
+Companies are classified into high, medium, and low revenue growth categories.
+- High Growth Companies: 台積電, 聯電, 統一超, 八方雲集- Top Keywords (Precise Mode): 獲利 (596次), 營收 (412次), 成長 (107次)
+- Top Keywords (Search Mode): 持續 (62次), 穩定 (51次)
 
-![newplot (27)](https://github.com/user-attachments/assets/a0a5a020-742d-4f17-9f58-059d7c871ddb)
+- Medium Growth Companies: 味全, 泰山, 福壽, 南僑- Top Keywords (Precise Mode): 財務 (48次), 市場 (40次), 成長幅度 (29次)
 
-Key Highlights:
-- **Most Mentioned Company**: The company "聯華" appears the most frequently, with **2 occurrences**.
-- **Other Companies**: All other companies appear **once** in the dataset.
+- Low Growth Companies: 幸福, 嘉泥, 台飲- Top Keywords (Precise Mode): 下滑 (385次), 波動 (68次), 轉虧 (61次)
 
 
-![newplot (33)](https://github.com/user-attachments/assets/06129171-4b8b-462f-b252-154f3761d436)
-Key Highlights:
-- Title: "Word Cloud (Outstanding Company Term Frequency)," indicating that the chart analyzes the frequency of mentions for top-performing companies.
-- Most Prominent Terms: 大統益、興泰、宏亞、聯華、黑松、天仁、亞聚、台達化
-- Vibrant Visual Appeal: The words appear in different colors like green, blue, and purple, enhancing the word cloud’s visual attractiveness.
+High-growth companies are associated with 獲利、營收、穩定增長, while low-growth companies exhibit 市場衰退、波動、財務困境.
 
+Profitability Performance Classification
+Companies are classified based on high, medium, and low profitability.
+- High Profit Companies: 台塑, 台積電, 光寶科, 聯華- Top Keywords (Precise Mode): 獲利 (596次), 財務穩健 (37次), 利潤穩定 (33次)
+- Top Keywords (Search Mode): 持續增長 (62次), 企業擴展 (29次)
+
+- Medium Profit Companies: 佳格, 味全, 南僑, 杏輝- Top Keywords (Precise Mode): 成本管理 (27次), 競爭力 (24次)
+
+- Low Profit Companies: 宏亞, 台聚, 愛之味, 信大- Top Keywords (Precise Mode): 獲利低迷 (19次), 虧損 (40次), 市場挑戰 (38次)
+
+
+High-profit companies correlate with 穩定財務管理、持續擴展、強勢市場定位, while low-profit companies show 成本壓力、需求疲弱、財務不穩.
+
+Financial Stability Classification
+Companies are categorized based on high, medium, and low financial stability.
+- High Financial Stability Companies: 聯電, 台達電, 台泥, 汎德永業- Top Keywords (Precise Mode): 資本結構強 (48次), 穩定負債管理 (40次)
+- Top Keywords (Search Mode): 高抗風險能力 (37次), 現金流穩定 (29次)
+
+- Medium Financial Stability Companies: 福壽, 聯華, 泰山, 南光- Top Keywords (Precise Mode): 市場波動 (27次), 資金調度 (24次)
+
+- Low Financial Stability Companies: 幸福, 台飲, 信大, 嘉泥- Top Keywords (Precise Mode): 財務不穩 (29次), 負債壓力 (38次), 現金流風險 (40次)
+
+
+Financially stable companies demonstrate 強韌抗風險能力、資本管理有效, while low financial stability companies struggle with 高負債負擔、流動性問題.
+
+Summary & Insights
+- 科技與金融產業在高營收與高獲利排名中佔據主導地位, 受惠於創新與全球需求。
+- 食品與製造業表現中等, 但受市場波動影響較大, 影響獲利穩定性。
+- 財務穩健性對企業競爭力至關重要, 穩健企業更能應對經濟不確定性。
 
 
 
