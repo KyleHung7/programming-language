@@ -373,15 +373,15 @@ This word cloud provides an impactful visual summary of frequently mentioned key
 - Create a bar chart to display word frequencies and highlight the most common terms.
 - Save the word frequency data into a CSV file for further analysis.
 
-![image](https://github.com/user-attachments/assets/fd17edbf-4f79-468a-b95e-83b1478934d6)
-![image](https://github.com/user-attachments/assets/1dd24b15-2839-4080-a43a-d140bdc8f31f)
-![image](https://github.com/user-attachments/assets/f70becd7-e394-4543-94a9-be136fa9012d)
-![image](https://github.com/user-attachments/assets/31e85720-df8b-4262-a83a-630bc12e417e)
-![image](https://github.com/user-attachments/assets/794ef3fb-a66e-408a-bec0-affaed1ac04b)
-![image](https://github.com/user-attachments/assets/1ee48dd6-ae11-4836-9cc5-46dbb298d3e7)
-![image](https://github.com/user-attachments/assets/98905858-bf96-45ee-b112-c345423f9115)
-![image](https://github.com/user-attachments/assets/2ca36e21-47f4-46da-9522-2c14616efbba)
 
+![newplot (36)](https://github.com/user-attachments/assets/8cdf6d85-d020-40f7-bccd-f3a41dfb083c)
+![newplot (37)](https://github.com/user-attachments/assets/9a1688f9-b767-4aa6-a676-f043b3d35deb)
+![newplot (38)](https://github.com/user-attachments/assets/39b990aa-ecf3-4dec-9ccb-badaf43fb2f6)
+![newplot (39)](https://github.com/user-attachments/assets/27bf4358-3194-47b7-a939-9f1ed02089d2)
+![newplot (40)](https://github.com/user-attachments/assets/59f796b8-4dce-4e38-b9e1-c141db4ac454)
+![newplot (41)](https://github.com/user-attachments/assets/234eb1d1-7896-484e-82bf-7669290b1c30)
+![newplot (42)](https://github.com/user-attachments/assets/793885ac-d710-4c9f-af86-ea070720f868)
+![newplot (43)](https://github.com/user-attachments/assets/571c115d-a9ac-4592-af17-6b948280d82b)
 
 
 #### Revenue Growth Performance Classification
