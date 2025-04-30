@@ -385,21 +385,21 @@ This word cloud provides an impactful visual summary of frequently mentioned key
 
 #### Company Word Frequency Statistics (Top 50 - Excellent)
 ##### General Mode - Top 50 Words
-- **Highest Frequency Word**: "聯華" (Lian Hua) appears **2** times.
+- **Highest Frequency Word**: "聯華"  appears **2** times.
 - **Other Frequent Words**: Each of the following words appears **once**:
-  - 天仁 (Tian Ren), 黑松 (Hei Song), 興泰 (Xing Tai), 宏亞 (Hong Ya), 台塑 (Tai Su), 南亞 (Nan Ya), 台聚 (Tai Ju), 華夏 (Hua Xia), 大統益 (Da Tong Yi), 亞聚 (Ya Ju), 台達化 (Tai Da Hua), 台苯 (Tai Ben), 國喬 (Guo Qiao), 聯成 (Lian Cheng), 中石化 (Zhong Shi Hua), 達新 (Da Xin), 福懋油 (Fu Mao You), 上曜 (Shang Yao), 三芳 (San Fang), 味全 (Wei Quan), 味王 (Wei Wang), 大成 (Da Cheng), 大飲 (Da Yin), 卜蜂 (Bu Feng), 統一 (Tong Yi), 愛之味 (Ai Zhi Wei), 泰山 (Tai Shan), 福壽 (Fu Shou), 台榮 (Tai Rong), 聯華食 (Lian Hua Shi), 佳格 (Jia Ge), 福懋 (Fu Mao).
+  - 天仁 , 黑松 , 興泰 , 宏亞 , 台塑 , 南亞, 台聚, 華夏 , 大統益, 亞聚, 台達化, 台苯, 國喬, 聯成, 中石化, 達新, 福懋油, 上曜, 三芳, 味全, 味王, 大成, 大飲, 卜蜂, 統一, 愛之味, 泰山, 福壽, 台榮, 聯華食, 佳格, 福懋.
 
 #####  Words with Zero Frequency:
 Some words did not appear in the dataset, including:
-- 谷崧 (Gu Song), 智易 (Zhi Yi), 聯穎 (Lian Ying), 瑞鼎 (Rui Ding), 艾笛森 (Ai Di Sen), 嘉威 (Jia Wei), 牧德 (Mu De), 聯合再生 (Lian He Zai Sheng), 辛耘 (Xin Yun), 通嘉 (Tong Jia), 宏致 (Hong Zhi), 碩天 (Shuo Tian), 洋華 (Yang Hua), 達邁 (Da Mai), 精聯 (Jing Lian), 健策 (Jian Ce), 圓展 (Yuan Zhan).
+- 谷崧, 智易, 聯穎, 瑞鼎, 艾笛森, 嘉威, 牧德, 聯合再生, 辛耘, 通嘉, 宏致, 碩天, 洋華, 達邁, 精聯, 健策, 圓展.
 
 #####  Precision Mode - Top 50 Words
 - **Includes variations** in company names such as:
-  - "鮮活" (Xian Huo) and "果汁" (Guo Zhi) related to beverage industry terms.
-  - "達化" (Da Hua), "台苯" (Tai Ben), "國喬" (Guo Qiao), "喬聯成" (Qiao Lian Cheng) reflecting key chemical manufacturers.
+  - "鮮活"  and "果汁" related to beverage industry terms.
+  - "達化" , "台苯" , "國喬" , "喬聯成" reflecting key chemical manufacturers.
 
 #####  Full Mode - Top 50 Words
-- Words remain consistent but additional **refinements** in company names such as "成大" (Cheng Da) alongside "大成" (Da Cheng).
+- Words remain consistent but additional **refinements** in company names such as "成大" alongside "大成" .
 
 #####  Search Mode - Top 50 Words
 - Similar to precision mode, emphasizing structured entity recognition.
