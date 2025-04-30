@@ -383,50 +383,26 @@ This word cloud provides an impactful visual summary of frequently mentioned key
 ![newplot (42)](https://github.com/user-attachments/assets/793885ac-d710-4c9f-af86-ea070720f868)
 ![newplot (43)](https://github.com/user-attachments/assets/571c115d-a9ac-4592-af17-6b948280d82b)
 
+#### Company Word Frequency Statistics (Top 50 - Excellent)
+###### General Mode - Top 50 Words
+- **Highest Frequency Word**: "聯華" (Lian Hua) appears **2** times.
+- **Other Frequent Words**: Each of the following words appears **once**:
+  - 天仁 (Tian Ren), 黑松 (Hei Song), 興泰 (Xing Tai), 宏亞 (Hong Ya), 台塑 (Tai Su), 南亞 (Nan Ya), 台聚 (Tai Ju), 華夏 (Hua Xia), 大統益 (Da Tong Yi), 亞聚 (Ya Ju), 台達化 (Tai Da Hua), 台苯 (Tai Ben), 國喬 (Guo Qiao), 聯成 (Lian Cheng), 中石化 (Zhong Shi Hua), 達新 (Da Xin), 福懋油 (Fu Mao You), 上曜 (Shang Yao), 三芳 (San Fang), 味全 (Wei Quan), 味王 (Wei Wang), 大成 (Da Cheng), 大飲 (Da Yin), 卜蜂 (Bu Feng), 統一 (Tong Yi), 愛之味 (Ai Zhi Wei), 泰山 (Tai Shan), 福壽 (Fu Shou), 台榮 (Tai Rong), 聯華食 (Lian Hua Shi), 佳格 (Jia Ge), 福懋 (Fu Mao).
 
-#### Revenue Growth Performance Classification
-Companies are classified into high, medium, and low revenue growth categories.
-- High Growth Companies: 台積電, 聯電, 統一超, 八方雲集- Top Keywords (Precise Mode): 獲利 (596次), 營收 (412次), 成長 (107次)
-- Top Keywords (Search Mode): 持續 (62次), 穩定 (51次)
+######  Words with Zero Frequency:
+Some words did not appear in the dataset, including:
+- 谷崧 (Gu Song), 智易 (Zhi Yi), 聯穎 (Lian Ying), 瑞鼎 (Rui Ding), 艾笛森 (Ai Di Sen), 嘉威 (Jia Wei), 牧德 (Mu De), 聯合再生 (Lian He Zai Sheng), 辛耘 (Xin Yun), 通嘉 (Tong Jia), 宏致 (Hong Zhi), 碩天 (Shuo Tian), 洋華 (Yang Hua), 達邁 (Da Mai), 精聯 (Jing Lian), 健策 (Jian Ce), 圓展 (Yuan Zhan).
 
-- Medium Growth Companies: 味全, 泰山, 福壽, 南僑- Top Keywords (Precise Mode): 財務 (48次), 市場 (40次), 成長幅度 (29次)
+######  Precision Mode - Top 50 Words
+- **Includes variations** in company names such as:
+  - "鮮活" (Xian Huo) and "果汁" (Guo Zhi) related to beverage industry terms.
+  - "達化" (Da Hua), "台苯" (Tai Ben), "國喬" (Guo Qiao), "喬聯成" (Qiao Lian Cheng) reflecting key chemical manufacturers.
 
-- Low Growth Companies: 幸福, 嘉泥, 台飲- Top Keywords (Precise Mode): 下滑 (385次), 波動 (68次), 轉虧 (61次)
+######  Full Mode - Top 50 Words
+- Words remain consistent but additional **refinements** in company names such as "成大" (Cheng Da) alongside "大成" (Da Cheng).
 
-
-High-growth companies are associated with 獲利、營收、穩定增長, while low-growth companies exhibit 市場衰退、波動、財務困境.
-
-#### Profitability Performance Classification
-Companies are classified based on high, medium, and low profitability.
-- High Profit Companies: 台塑, 台積電, 光寶科, 聯華- Top Keywords (Precise Mode): 獲利 (596次), 財務穩健 (37次), 利潤穩定 (33次)
-- Top Keywords (Search Mode): 持續增長 (62次), 企業擴展 (29次)
-
-- Medium Profit Companies: 佳格, 味全, 南僑, 杏輝- Top Keywords (Precise Mode): 成本管理 (27次), 競爭力 (24次)
-
-- Low Profit Companies: 宏亞, 台聚, 愛之味, 信大- Top Keywords (Precise Mode): 獲利低迷 (19次), 虧損 (40次), 市場挑戰 (38次)
-
-
-High-profit companies correlate with 穩定財務管理、持續擴展、強勢市場定位, while low-profit companies show 成本壓力、需求疲弱、財務不穩.
-
-#### Financial Stability Classification
-Companies are categorized based on high, medium, and low financial stability.
-- High Financial Stability Companies: 聯電, 台達電, 台泥, 汎德永業- Top Keywords (Precise Mode): 資本結構強 (48次), 穩定負債管理 (40次)
-- Top Keywords (Search Mode): 高抗風險能力 (37次), 現金流穩定 (29次)
-
-- Medium Financial Stability Companies: 福壽, 聯華, 泰山, 南光- Top Keywords (Precise Mode): 市場波動 (27次), 資金調度 (24次)
-
-- Low Financial Stability Companies: 幸福, 台飲, 信大, 嘉泥- Top Keywords (Precise Mode): 財務不穩 (29次), 負債壓力 (38次), 現金流風險 (40次)
-
-
-Financially stable companies demonstrate 強韌抗風險能力、資本管理有效, while low financial stability companies struggle with 高負債負擔、流動性問題.
-
-#### Summary & Insights
-- 科技與金融產業在高營收與高獲利排名中佔據主導地位, 受惠於創新與全球需求。
-- 食品與製造業表現中等, 但受市場波動影響較大, 影響獲利穩定性。
-- 財務穩健性對企業競爭力至關重要, 穩健企業更能應對經濟不確定性。
-
-
-
+######  Search Mode - Top 50 Words
+- Similar to precision mode, emphasizing structured entity recognition.
 
 ---
 
