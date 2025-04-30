@@ -379,12 +379,18 @@ This word cloud provides an impactful visual summary of frequently mentioned key
 ![newplot (27)](https://github.com/user-attachments/assets/a0a5a020-742d-4f17-9f58-059d7c871ddb)
 
 Key Highlights:
-- **Most Mentioned Company**: The company "聯發" appears the most frequently, with **2 occurrences**.
+- **Most Mentioned Company**: The company "聯華" appears the most frequently, with **2 occurrences**.
 - **Other Companies**: All other companies appear **once** in the dataset.
 
-Examples of Company Names:
-- 天仁、松、興泰、宏全、台塑、台鳳、鴻輝、寶成、宏達、宏碁、台達、台化、南亞、聯華食、中石化、福懋、福記油、上曜、三方、味王、大成、文敏、統一、愛之味、泰山、福華、白鷺。
-This chart presents a clear and structured view of the frequency of mentions for each company, helping to identify the most notable businesses in the dataset. The simple layout makes it easy to grasp key insights and conduct comparative analysis. 📊
+
+![newplot (33)](https://github.com/user-attachments/assets/06129171-4b8b-462f-b252-154f3761d436)
+Key Highlights:
+- Title: "Word Cloud (Outstanding Company Term Frequency)," indicating that the chart analyzes the frequency of mentions for top-performing companies.
+- Most Prominent Terms: 大統益、興泰、宏亞、聯華、黑松、天仁、亞聚、台達化，這些詞彙以較大的字體顯示，代表它們在數據中的高出現率。
+- Vibrant Visual Appeal: The words appear in different colors like green, blue, and purple, enhancing the word cloud’s visual attractiveness.
+
+
+
 
 
 ---
