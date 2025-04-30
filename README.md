@@ -389,17 +389,21 @@ This word cloud provides an impactful visual summary of frequently mentioned key
 - **Other Frequent Words**: Each of the following words appears **once**:
   - 天仁 , 黑松 , 興泰 , 宏亞 , 台塑 , 南亞, 台聚, 華夏 , 大統益, 亞聚, 台達化, 台苯, 國喬, 聯成, 中石化, 達新, 福懋油, 上曜, 三芳, 味全, 味王, 大成, 大飲, 卜蜂, 統一, 愛之味, 泰山, 福壽, 台榮, 聯華食, 佳格, 福懋.
 
+
 #####  Words with Zero Frequency:
 Some words did not appear in the dataset, including:
 - 谷崧, 智易, 聯穎, 瑞鼎, 艾笛森, 嘉威, 牧德, 聯合再生, 辛耘, 通嘉, 宏致, 碩天, 洋華, 達邁, 精聯, 健策, 圓展.
+  
 
 #####  Precision Mode - Top 50 Words
 - **Includes variations** in company names such as:
   - "鮮活"  and "果汁" related to beverage industry terms.
   - "達化" , "台苯" , "國喬" , "喬聯成" reflecting key chemical manufacturers.
 
+
 #####  Full Mode - Top 50 Words
 - Words remain consistent but additional **refinements** in company names such as "成大" alongside "大成" .
+
 
 #####  Search Mode - Top 50 Words
 - Similar to precision mode, emphasizing structured entity recognition.
