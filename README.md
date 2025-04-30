@@ -386,7 +386,7 @@ Key Highlights:
 ![newplot (33)](https://github.com/user-attachments/assets/06129171-4b8b-462f-b252-154f3761d436)
 Key Highlights:
 - Title: "Word Cloud (Outstanding Company Term Frequency)," indicating that the chart analyzes the frequency of mentions for top-performing companies.
-- Most Prominent Terms: 大統益、興泰、宏亞、聯華、黑松、天仁、亞聚、台達化，這些詞彙以較大的字體顯示，代表它們在數據中的高出現率。
+- Most Prominent Terms: 大統益、興泰、宏亞、聯華、黑松、天仁、亞聚、台達化
 - Vibrant Visual Appeal: The words appear in different colors like green, blue, and purple, enhancing the word cloud’s visual attractiveness.
 
 
