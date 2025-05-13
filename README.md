@@ -410,47 +410,35 @@ Some words did not appear in the dataset, including:
 
 
 
-### Assignment 6:
-# Chinese FinTech Text Analysis using CKIPtagger
+### Assignment 6: FinTech Article Analysis using CKIPtagger
 
-This repository contains the code and analysis results for a project aimed at performing natural language processing (NLP) on a Chinese text related to Financial Technology (FinTech). The project utilizes the CKIPtagger tool, developed by the Academia Sinica in Taiwan, for key NLP tasks such as Word Segmentation, Part-of-Speech Tagging, and Named Entity Recognition. The results are then visualized using Plotly to provide clear insights into the text's content.
+- **Environment Setup**: Setting up a suitable Python environment, specifically addressing TensorFlow version compatibility issues required by CKIPtagger.
+- **Package Installation**: Installing necessary libraries, including `ckiptagger` for NLP processing and `plotly` for data visualization.
+- **Model Preparation**: Downloading the pre-trained language models required by CKIPtagger.
+- **Text Input and Preprocessing**: Loading the Chinese text for analysis and performing basic preprocessing like sentence segmentation.
+- **CKIPtagger Analysis**: Applying Word Segmentation, Part-of-Speech Tagging, and Named Entity Recognition to the text.
+- **Results Visualization**: Generating charts to visualize the findings from the analysis.
 
-This project was conducted as a research assignment to explore the application of NLP techniques to real-world Chinese text data.
 
-## Project Overview
-
-The project involves the following steps:
-
-1.  **Environment Setup**: Setting up a suitable Python environment, specifically addressing TensorFlow version compatibility issues required by CKIPtagger.
-2.  **Package Installation**: Installing necessary libraries, including `ckiptagger` for NLP processing and `plotly` for data visualization.
-3.  **Model Preparation**: Downloading the pre-trained language models required by CKIPtagger.
-4.  **Text Input and Preprocessing**: Loading the Chinese text for analysis and performing basic preprocessing like sentence segmentation.
-5.  **CKIPtagger Analysis**: Applying Word Segmentation, Part-of-Speech Tagging, and Named Entity Recognition to the text.
-6.  **Results Visualization**: Generating charts to visualize the findings from the analysis.
-
-The core analysis was performed using a Google Colab notebook environment due to its convenience for setting up dependencies and accessing necessary resources.
-
-## Analysis Results
-
-After processing the FinTech text with CKIPtagger, two main visualizations were generated to summarize the findings:
-
-### 1. Top 20 Most Frequent Words
+#### 1. Top 20 Most Frequent Words
 
 This bar chart shows the words that appear most frequently in the analyzed text after filtering out single characters and common stop words.
 
-![Top 20 Most Frequent Words](newplot%20(48).png)
+![newplot (48)](https://github.com/user-attachments/assets/31604d68-5464-4e58-8398-4065c63f517a)
 
-**Interpretation:**
+
+##### **Interpretation:**
 
 The most prominent words like "金融" (Finance), "智慧" (Intelligence), "銀行" (Bank), "人工" (Artificial), "監管" (Regulation), "2025", and "科技" (Technology) clearly indicate that the text focuses heavily on the domain of Finance and Technology, particularly discussing Artificial Intelligence, regulation, and looking towards the year 2025. This confirms the text's theme as a prediction or outlook on the future of FinTech.
 
-### 2. Distribution of Named Entity Types
+#### 2. Distribution of Named Entity Types
 
 This pie chart illustrates the breakdown of different types of named entities (e.g., organizations, dates, persons, locations) identified within the text by CKIPtagger.
 
-![Named Entity Type Distribution](newplot%20(49).png)
+![newplot (49)](https://github.com/user-attachments/assets/7f14ee8b-b57e-403f-adb4-a85f9bd9879e)
 
-**Interpretation:**
+
+##### **Interpretation:**
 
 The dominant entity types are:
 
@@ -464,9 +452,6 @@ The smaller proportions of categories like PERSON and GPE indicate that the text
 
 The CKIPtagger analysis provided valuable insights into the core themes and key entities discussed in the Chinese FinTech text. The combination of word frequency and named entity recognition allowed for a structured understanding of the document's content, revealing the emphasis on future trends, AI, regulation, and the organizations driving these changes within the financial technology sector. This project demonstrates the effectiveness of using NLP tools like CKIPtagger for extracting meaningful information from specialized Chinese texts.
 
-## How to Run (Optional - if sharing the code)
-
-*(Include instructions here if you plan to share the Colab notebook or a standard Python script. For a Colab notebook, you might just link to it or briefly explain the steps within the Colab environment as outlined in your notebook structure.)*
 
 ---
 
