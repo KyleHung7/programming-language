@@ -93,6 +93,7 @@ By analyzing legal documents as an example, students will learn to **collect and
 ![image](https://github.com/user-attachments/assets/a6830449-6acf-4dae-9843-8d4123a2791e)
 
 <br/>
+
 ### Assignment 2: Advanced 2024 Q3 Financial Report Analysis
 [Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_5_Advanced_2024_Q3_Financial_Report_Analysis.ipynb)
 - **Refine and clean** financial data.
@@ -145,6 +146,7 @@ By analyzing legal documents as an example, students will learn to **collect and
 - Insight: The upward trends suggest a positive financial outlook for most of these companies, with TSMC once again standing out for shareholder value.
 
 <br/>
+
 ### Assignment 3: Advanced 2024 Q3 Financial Report Analysis with Machine Learning
 [Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_6_Advanced_2024_Q3_Financial_Report_Analysis_with_Machine_Learning.ipynb)
 - Apply **PCA and K-Means clustering** (using the **elbow method** to determine the optimal number of clusters).
@@ -200,6 +202,7 @@ This is a box plot that visualizes the distribution of 2024 revenue across diffe
   - Cluster 2 shows a wider range, with a few outliers, but most of the companies are still in the mid-to-low revenue range.
 
 <br/>  
+
 ### Assignment 4: Advanced 2019-2023 Financial Report Analysis with Machine Learning
 [Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_8_Advanced_2019_2023_Financial_Report_Analysis.ipynb)
 - Apply Principal Component Analysis (PCA) and K-Means clustering, utilizing the elbow method to identify the optimal number of clusters.
@@ -373,6 +376,7 @@ This word cloud provides an impactful visual summary of frequently mentioned key
 
 
 <br/>
+
 ### Assignment 5 (1.0): Advanced 2019-2023 Financial Report Analysis Gemini Text
 [Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_9_Advanced_2019_2023_Financial_Report_Analysis_Gemini_Text.ipynb)
 
@@ -421,6 +425,7 @@ Some words did not appear in the dataset, including:
 
 
 <br/>
+
 ### Assignment 5 (2.0): FinTech Article Analysis using CKIPtagger
 [Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_12_FinTech_Article_Analysis_using_CKIPtagger.ipynb)
 
