@@ -72,6 +72,15 @@ By analyzing legal documents as an example, students will learn to **collect and
 - Generate a word cloud to visualize the most frequent terms in the text.
 - Create a bar chart to display word frequencies and highlight the most common terms.
 - Save the word frequency data into a CSV file for further analysis.
+
+### 🔹 Week 12: FinTech Article Analysis using CKIPtagger
+[Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_12_FinTech_Article_Analysis_using_CKIPtagger.ipynb)
+- Environment Setup: Setting up a suitable Python environment, specifically addressing TensorFlow version compatibility issues required by CKIPtagger.
+- Package Installation: Installing necessary libraries, including `ckiptagger` for NLP processing and `plotly` for data visualization.
+- **Model Preparation: Downloading the pre-trained language models required by CKIPtagger.
+- Text Input and Preprocessing: Loading the Chinese text for analysis and performing basic preprocessing like sentence segmentation.
+- CKIPtagger Analysis: Applying Word Segmentation, Part-of-Speech Tagging, and Named Entity Recognition to the text.
+- Results Visualization: Generating charts to visualize the findings from the analysis.
 ---
 ## 📅 Assignments
 
@@ -83,6 +92,7 @@ By analyzing legal documents as an example, students will learn to **collect and
   
 ![image](https://github.com/user-attachments/assets/a6830449-6acf-4dae-9843-8d4123a2791e)
 
+<br/>
 ### Assignment 2: Advanced 2024 Q3 Financial Report Analysis
 [Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_5_Advanced_2024_Q3_Financial_Report_Analysis.ipynb)
 - **Refine and clean** financial data.
@@ -134,7 +144,7 @@ By analyzing legal documents as an example, students will learn to **collect and
 
 - Insight: The upward trends suggest a positive financial outlook for most of these companies, with TSMC once again standing out for shareholder value.
 
-
+<br/>
 ### Assignment 3: Advanced 2024 Q3 Financial Report Analysis with Machine Learning
 [Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_6_Advanced_2024_Q3_Financial_Report_Analysis_with_Machine_Learning.ipynb)
 - Apply **PCA and K-Means clustering** (using the **elbow method** to determine the optimal number of clusters).
@@ -189,7 +199,7 @@ This is a box plot that visualizes the distribution of 2024 revenue across diffe
 
   - Cluster 2 shows a wider range, with a few outliers, but most of the companies are still in the mid-to-low revenue range.
 
-  
+<br/>  
 ### Assignment 4: Advanced 2019-2023 Financial Report Analysis with Machine Learning
 [Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_8_Advanced_2019_2023_Financial_Report_Analysis.ipynb)
 - Apply Principal Component Analysis (PCA) and K-Means clustering, utilizing the elbow method to identify the optimal number of clusters.
@@ -362,8 +372,8 @@ Key highlights:
 This word cloud provides an impactful visual summary of frequently mentioned keywords, offering insights into the primary topics or trends within the analyzed content.
 
 
-  
-### Assignment 5: Advanced 2019-2023 Financial Report Analysis Gemini Text
+<br/>
+### Assignment 5 (1.0): Advanced 2019-2023 Financial Report Analysis Gemini Text
 [Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_9_Advanced_2019_2023_Financial_Report_Analysis_Gemini_Text.ipynb)
 - Convert the Gemini financial report analysis text into a DataFrame.
 - Perform performance level classification based on the data.
@@ -409,15 +419,15 @@ Some words did not appear in the dataset, including:
 - Similar to precision mode, emphasizing structured entity recognition.
 
 
-
-### Assignment 6: FinTech Article Analysis using CKIPtagger
-
-- **Environment Setup**: Setting up a suitable Python environment, specifically addressing TensorFlow version compatibility issues required by CKIPtagger.
-- **Package Installation**: Installing necessary libraries, including `ckiptagger` for NLP processing and `plotly` for data visualization.
-- **Model Preparation**: Downloading the pre-trained language models required by CKIPtagger.
-- **Text Input and Preprocessing**: Loading the Chinese text for analysis and performing basic preprocessing like sentence segmentation.
-- **CKIPtagger Analysis**: Applying Word Segmentation, Part-of-Speech Tagging, and Named Entity Recognition to the text.
-- **Results Visualization**: Generating charts to visualize the findings from the analysis.
+<br/>
+### Assignment 5 (2.0): FinTech Article Analysis using CKIPtagger
+[Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_12_FinTech_Article_Analysis_using_CKIPtagger.ipynb)
+- Environment Setup: Setting up a suitable Python environment, specifically addressing TensorFlow version compatibility issues required by CKIPtagger.
+- Package Installation: Installing necessary libraries, including `ckiptagger` for NLP processing and `plotly` for data visualization.
+- Model Preparation: Downloading the pre-trained language models required by CKIPtagger.
+- Text Input and Preprocessing: Loading the Chinese text for analysis and performing basic preprocessing like sentence segmentation.
+- CKIPtagger Analysis: Applying Word Segmentation, Part-of-Speech Tagging, and Named Entity Recognition to the text.
+- Results Visualization: Generating charts to visualize the findings from the analysis.
 
 
 #### 1. Top 20 Most Frequent Words
