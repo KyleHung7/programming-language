@@ -427,7 +427,7 @@ This bar chart shows the words that appear most frequently in the analyzed text 
 ![newplot (48)](https://github.com/user-attachments/assets/31604d68-5464-4e58-8398-4065c63f517a)
 
 
-##### **Interpretation:**
+#### **Interpretation:**
 
 The most prominent words like "金融" (Finance), "智慧" (Intelligence), "銀行" (Bank), "人工" (Artificial), "監管" (Regulation), "2025", and "科技" (Technology) clearly indicate that the text focuses heavily on the domain of Finance and Technology, particularly discussing Artificial Intelligence, regulation, and looking towards the year 2025. This confirms the text's theme as a prediction or outlook on the future of FinTech.
 
@@ -438,7 +438,7 @@ This pie chart illustrates the breakdown of different types of named entities (e
 ![newplot (49)](https://github.com/user-attachments/assets/7f14ee8b-b57e-403f-adb4-a85f9bd9879e)
 
 
-##### **Interpretation:**
+#### **Interpretation:**
 
 The dominant entity types are:
 
@@ -448,7 +448,7 @@ The dominant entity types are:
 
 The smaller proportions of categories like PERSON and GPE indicate that the text's focus is more on the industry trends and organizations rather than specific individuals or geographical locations.
 
-## Conclusion
+#### Conclusion
 
 The CKIPtagger analysis provided valuable insights into the core themes and key entities discussed in the Chinese FinTech text. The combination of word frequency and named entity recognition allowed for a structured understanding of the document's content, revealing the emphasis on future trends, AI, regulation, and the organizations driving these changes within the financial technology sector. This project demonstrates the effectiveness of using NLP tools like CKIPtagger for extracting meaningful information from specialized Chinese texts.
 
