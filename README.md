@@ -375,6 +375,7 @@ This word cloud provides an impactful visual summary of frequently mentioned key
 <br/>
 ### Assignment 5 (1.0): Advanced 2019-2023 Financial Report Analysis Gemini Text
 [Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_9_Advanced_2019_2023_Financial_Report_Analysis_Gemini_Text.ipynb)
+
 - Convert the Gemini financial report analysis text into a DataFrame.
 - Perform performance level classification based on the data.
 - Apply word tokenization using Jieba's precise mode, full mode, and search engine mode for Chinese text processing.
@@ -422,6 +423,7 @@ Some words did not appear in the dataset, including:
 <br/>
 ### Assignment 5 (2.0): FinTech Article Analysis using CKIPtagger
 [Task Link Path](https://github.com/KyleHung7/programming-language/blob/main/Week_12_FinTech_Article_Analysis_using_CKIPtagger.ipynb)
+
 - Environment Setup: Setting up a suitable Python environment, specifically addressing TensorFlow version compatibility issues required by CKIPtagger.
 - Package Installation: Installing necessary libraries, including `ckiptagger` for NLP processing and `plotly` for data visualization.
 - Model Preparation: Downloading the pre-trained language models required by CKIPtagger.
